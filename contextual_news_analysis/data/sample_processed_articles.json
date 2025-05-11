@@ -1,0 +1,2 @@
+{"title": "Protests erupt over fuel prices", "entities": [["Indian Oil Corp", "ORG"], ["Delhi", "GPE"], ["Rajesh Sharma", "PERSON"]], "sentiment": -0.4, "source": "BBC", "published": "2025-05-10", "link": "https://bbc.co.uk/news/fuel-protests"}
+{"title": "Company X acquires startup Y in $200M deal", "entities": [["Company X", "ORG"], ["Startup Y", "ORG"], ["San Francisco", "GPE"]], "sentiment": 0.6, "source": "Reuters", "published": "2025-05-09", "link": "https://reuters.com/business/companyx-acquires"}
